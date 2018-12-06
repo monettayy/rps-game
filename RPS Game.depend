@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1519701850 source:f:\asop\activity08\rps game\src\hand.cpp
+	"Hand.h"
+
+1519699692 f:\asop\activity08\rps game\include\hand.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+
+1519652890 source:f:\asop\activity08\rps game\src\paper.cpp
+	"Paper.h"
+
+1519652874 f:\asop\activity08\rps game\include\paper.h
+	"Hand.h"
+
+1519652926 source:f:\asop\activity08\rps game\src\rock.cpp
+	"Rock.h"
+
+1519652914 f:\asop\activity08\rps game\include\rock.h
+	"Hand.h"
+
+1519652972 source:f:\asop\activity08\rps game\src\scissors.cpp
+	"Scissors.h"
+
+1519652960 f:\asop\activity08\rps game\include\scissors.h
+	"Hand.h"
+
+1519700784 source:f:\asop\activity08\rps game\main.cpp
+	<iostream>
+	"Game.h"
+
+1519701896 source:f:\asop\activity08\rps game\src\player.cpp
+	"Player.h"
+
+1519700474 f:\asop\activity08\rps game\include\player.h
+	"HAND.H"
+	"Rock.h"
+	"Paper.h"
+	"Scissors.h"
+
+1519700570 source:f:\asop\activity08\rps game\src\aiplayer.cpp
+	"AIPlayer.h"
+
+1519700530 f:\asop\activity08\rps game\include\aiplayer.h
+	"Player.h"
+
+1519701724 source:f:\asop\activity08\rps game\src\game.cpp
+	"Game.h"
+
+1519699850 f:\asop\activity08\rps game\include\game.h
+	"PLAYER.H"
+	"HumanPlayer.h"
+	"AIPLAYER.H"
+
+1519700708 source:f:\asop\activity08\rps game\src\humanplayer.cpp
+	"HumanPlayer.h"
+
+1519700540 f:\asop\activity08\rps game\include\humanplayer.h
+	"Player.h"
+
